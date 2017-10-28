@@ -1,6 +1,6 @@
 "lang"
 {
-"Language" "English"
+"Language" "Russian"
 "Tokens"
 { 
 //====================================
@@ -14,20 +14,20 @@
 		"SFUI_WPNHUD_Elites"		".40 Dual Elites"
 		"SFUI_WPNHUD_Famas"			"Clarion 5.56"
 		"SFUI_WPNHUD_FiveSeven"		"ES Five-Seven"
-		"SFUI_WPNHUD_Flashbang"		"Flashbang"
+		"SFUI_WPNHUD_Flashbang"		"Световая граната"
 		"SFUI_WPNHUD_G3SG1"			"D3/AU-1"
 		"SFUI_WPNHUD_GalilAR"		"IDF Defender"
 		"SFUI_WPNHUD_Glock18"		"9×19mm Sidearm"
-		"SFUI_WPNHUD_HE_Grenade"	"HE Grenade"
-		"SFUI_WPNHUD_Knife"			"Knife"
-		"SFUI_WPNHUD_Knife_T"		"Knife"
-		"SFUI_WPNHUD_Knife_GG"		"Gold Knife"
+		"SFUI_WPNHUD_HE_Grenade"	"Осколочная граната"
+		"SFUI_WPNHUD_Knife"			"Нож"
+		"SFUI_WPNHUD_Knife_T"		"Нож"
+		"SFUI_WPNHUD_Knife_GG"		"Золотой нож"
 		"SFUI_WPNHUD_M249"			"M249"
 		"SFUI_WPNHUD_M4A1"			"Maverick M4A1 Carbine"
 		"SFUI_WPNHUD_M4_SILENCER"	"Maverick M4A1 Carbine"
 		"SFUI_WPNHUD_MAC10"			"Ingram Mac-10"
 		"SFUI_WPNHUD_P90"			"ES C90"
-		"SFUI_WPNHUD_Smoke_Grenade"	"Smoke Grenade"
+		"SFUI_WPNHUD_Smoke_Grenade"	"Дымовая граната"
 		"SFUI_WPNHUD_UMP45"			"KM UMP45"
 		"SFUI_WPNHUD_xm1014"		"Leone YG1265 Auto Shotgun"
 		"SFUI_WPNHUD_C4"			"C4"
@@ -40,12 +40,12 @@
 		"SFUI_WPNHUD_SCAR20"		"Krieg 550 Commando"
 		"SFUI_WPNHUD_SG556"			"Krieg 552"
 		"SFUI_WPNHUD_SSG08"			"Schmidt Scout"
-		"SFUI_WPNHUD_KEVLAR"		"Kevlar Vest"
-		"SFUI_WPNHUD_DEFUSER"		"Defusal Kit"
-		"SFUI_WPNHUD_CUTTERS"		"Rescue Kit"
+		"SFUI_WPNHUD_KEVLAR"		"Бронежилет"
+		"SFUI_WPNHUD_DEFUSER"		"Набор сапёра"
+		"SFUI_WPNHUD_CUTTERS"		"Набор спасения"
 		"SFUI_WPNHUD_USP_SILENCER"	"KM .45 Tactical"
 		
-		"SFUI_WPNHUD_DEAGLE_GOLD"			"Gold Hawk .50c"
+		"SFUI_WPNHUD_DEAGLE_GOLD"			"Золотой Night Hawk .50c"
 		"SFUI_WPNHUD_RAILGUN"			"Railgun"
 
 
@@ -53,130 +53,130 @@
 // MENU
 //====================================
 
-"SFUI_PlayMenu_CustomMatchButton"		"<font color='#FF0000'>FIND A GAME</font>"
+"SFUI_PlayMenu_CustomMatchButton"		"<font color='#FF0000'>НАЙТИ ИГРУ</font>"
 
-"SFUI_QMM_State_find_searching"				"<font color='#FF0000'>YOU CAN'T PLAY ON OFFICIAL SERVERS WITH THIS MOD!</font>"
-"SFUI_QMM_ERROR_ClientUpdateRequired" 		"You can't play on official servers with this mod, set the lobby to PRIVATE to start a local server."
+"SFUI_QMM_State_find_searching"				"<font color='#FF0000'>ВЫ НЕ МОЖЕТЕ ИГРАТЬ НА ОФИЦИАЛЬНЫХ СЕРВЕРАХ С ЭТИМ МОДОМ!</font>"
+"SFUI_QMM_ERROR_ClientUpdateRequired" 		"Вы не можете играть на официальных серверах с этим модом, установите режим лобби ПРИВАТНЫЙ чтобы запустить локальный сервер."
 
-"SFUI_Lobby_MatchReadyButton"		"<font color='#A0A0A0'>DONT DO IT!</font>"
+"SFUI_Lobby_MatchReadyButton"		"<font color='#A0A0A0'>НЕ ДЕЛАЙ ЭТОГО!</font>"
 
-"SFUI_GameModeCasualDesc"					"Freely drop in and drop out of games using the Casual ruleset.\nBuy new weapons each round with money earned and win the round by eliminating the other team or completing the objective."
-"SFUI_GameModeCasualDescList"               "· Friendly fire is OFF\n· Team collision is ON\\n· Best out of 30 rounds"
-"SFUI_GameModeCasualDescSP"					"Buy new weapons each round with money earned.\nWin the round by eliminating the other team or completing the objective."
-"SFUI_GameModeCasualDescSPList"             "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 30 rounds"
+"SFUI_GameModeCasualDesc"					"Свободно заходите в обычные игры и покидайте их используя обычный набор правил.\nnКаждый раунд покупайте новое оружие на заработанные деньги и побеждайте, уничтожив команду противника или выполнив задание."
+"SFUI_GameModeCasualDescList"               "· Огонь по своим ОТКЛ\n· Столкновения с союзниками ВКЛ\\n· Матч до 16 побед"
+"SFUI_GameModeCasualDescSP"					"Каждый раунд покупайте новое оружие на заработанные деньги.\nВыиграйте раунд, уничтожив команду противника или выполнив цель."
+"SFUI_GameModeCasualDescSPList"             "· Огонь по своим ОТКЛ\n· Столкновения с союзниками ВКЛ\\n· Матч до 16 побед"
 
-//"SFUI_MainMenu_PlayButton"			"<font color='#FFCE00'>PLAY CLASSIC OFFENSIVE</font>"
-"SFUI_MainMenu_PlayButton"			"<font color='#FFCE00'>PLAY</font>"
-"SFUI_HOW TO PLAY"					"<font color='#FF0000'>HOW TO PLAY</font>"
-"SFUI_HelpMenu_HowToPlayButton"		"<font color='#FF0000'>HOW TO PLAY</font>"
-"SFUI_MainMenu_HelpButton"			"<font color='#FFCE00'>OPTIONS</font>"
-"SFUI_MainMenu_Inventory"			"<font color='#FF0000'>INVENTORY</font>"
-"SFUI_MainMenu_Watch"				"<font color='#FF0000'>WATCH</font>"
-"SFUI_MainMenu_My_Awards"			"<font color='#FFCE00'>AWARDS</font>"
-
-
-
-
-"SFUI_PauseMenu_ExitGameConfirmation_Message"	"Do you wish to disconnect from the current server?"
-"SFUI_MainMenu_ExitGameConfirmation_Message"	"Do you wish to stop playing now?"
+//"SFUI_MainMenu_PlayButton"			"<font color='#FFCE00'>ИГРАТЬ В CLASSIC OFFENSIVE</font>"
+"SFUI_MainMenu_PlayButton"			"<font color='#FFCE00'>ИГРАТЬ</font>"
+"SFUI_HOW TO PLAY"					"<font color='#FF0000'>КАК ИГРАТЬ</font>"
+"SFUI_HelpMenu_HowToPlayButton"		"<font color='#FF0000'>КАК ИГРАТЬ</font>"
+"SFUI_MainMenu_HelpButton"			"<font color='#FFCE00'>НАСТРОЙКИ</font>"
+"SFUI_MainMenu_Inventory"			"<font color='#FF0000'>ИНВЕНТАРЬ</font>"
+"SFUI_MainMenu_Watch"				"<font color='#FF0000'>СМОТРЕТЬ</font>"
+"SFUI_MainMenu_My_Awards"			"<font color='#FFCE00'>НАГРАДЫ</font>"
 
 
 
-"SFUI_GameMode_competitive"			"<font color='#FFCE00'>Competitive (You'll get a cooldown, don't!)</font>"
 
-"SFUI_Lobby_public"			"<font color='#FF0000'>Set this to Private</font>"
-"SFUI_Lobby_private"			"<font color='#FFCE00'>Private Classic Offensive Match</font>"
-
-"SFUI_HelpTitle"							"OPTIONS"
-
-"SFUI_PauseMenu_HelpButton"							"<font color='#FFCE00'>OPTIONS</font>"
-"SFUI_PauseMenu_ExitGameButton"					"<font color='#FFCE00'>DISCONNECT</font>"
-
-"SFUI_PauseMenu_SubPanelNav"					"${cancel} <font color='#FFCE00'>Back</font>"
+"SFUI_PauseMenu_ExitGameConfirmation_Message"	"Вы действительно хотите отключится от текущего сервера?"
+"SFUI_MainMenu_ExitGameConfirmation_Message"	"Вы действительно хотите выйти?"
 
 
-"SFUI_BYT_TITLE"					"<font color='#FFCE00'>PLAY WITH FRIENDS</font>"
-"SFUI_PlayMenu_BrowseServersButton"	"<font color='#FFCE00'>BROWSE COMMUNITY SERVERS</font>"
-"SFUI_PlayMenu_WithBotsButton"		"<font color='#FFCE00'>OFFLINE WITH BOTS</font>" [$WIN32]
-"SFUI_MainMenu_Training"			"<font color='#FFCE00'>CS:CO SHOOTING RANGE</font>"
-"SFUI_PlayMenu_FriendsMatchButton"	"<font color='#FFCE00'>PLAY WITH FRIENDS</font>" [$WIN32||$PS3]
-"SFUI_BYT_TITLE"					"<font color='#FFCE00'>PLAY WITH FRIENDS</font>"
-"SFUI_PlayMenu_CreateLobbyButton"	"<font color='#FFCE00'>PLAY WITH FRIENDS</font>"
 
-"SFUI_MainMenu_StatsButton"			"<font color='#FFCE00'>STATS</font>"
-"SFUI_MainMenu_MedalButton"			"<font color='#FFCE00'>ACHIEVEMENTS</font>"
+"SFUI_GameMode_competitive"			"<font color='#FFCE00'>Соревновательный (Вы получите временную блокировку!)</font>"
 
-"SFUI_LeaderboardDevice_Gamepad"							"<font color='#FF0000'>Controller</font>"
-"SFUI_HelpMenu_ControlsButton"				"<font color='#FF0000'>CONTROLLER</font>"	[$WIN32||$OSX]
-"SFUI_PLAYER_CONTROLS"			"<font color='#FF0000'>CONTROLLER</font>"
-"SFUI_HelpMenu_MouseKeyboardButton"	"<font color='#FFCE00'>KEYBOARD / MOUSE</font>"
-"SFUI_HelpMenu_SettingsButton"				"<font color='#FFCE00'>GAME SETTINGS</font>"	[$WIN32||$OSX]
-"SFUI_HelpMenu_VideoSettings"				"<font color='#FFCE00'>VIDEO SETTINGS</font>"
-"SFUI_HelpMenu_AudioSettings"				"<font color='#FFCE00'>AUDIO SETTINGS</font>"
-"SFUI_HelpMenu_CreditsButton"				"<font color='#FF0000'>CREDITS</font>"
+"SFUI_Lobby_public"			"<font color='#FF0000'>Установить Приватный режим</font>"
+"SFUI_Lobby_private"			"<font color='#FFCE00'>Приватный матч Classic Offensive</font>"
+
+"SFUI_HelpTitle"							"НАСТРОЙКИ"
+
+"SFUI_PauseMenu_HelpButton"							"<font color='#FFCE00'>ПОМОЩЬ И НАСТРОЙКИ</font>"
+"SFUI_PauseMenu_ExitGameButton"					"<font color='#FFCE00'>ОТКЛЮЧИТЬСЯ</font>"
+
+"SFUI_PauseMenu_SubPanelNav"					"${cancel} <font color='#FFCE00'>Назад</font>"
 
 
-"SFUI_PlayMenu_BrowseServersButton"	"<font color='#FF0000'>FIND SERVERS</font>"
-"SFUI_PauseMenu_CallVoteButton"					"<font color='#FFCE00'>CALL VOTE</font>"
-"SFUI_PauseMenu_SwitchTeamsButton"				"<font color='#FFCE00'>CHOOSE TEAM</font>"
+"SFUI_BYT_TITLE"					"<font color='#FFCE00'>ИГРАТЬ С ДРУЗЬЯМИ</font>"
+"SFUI_PlayMenu_BrowseServersButton"	"<font color='#FFCE00'>ПОИСК СЕРВЕРОВ СООБЩЕСТВА</font>"
+"SFUI_PlayMenu_WithBotsButton"		"<font color='#FFCE00'>ОФФЛАЙН С БОТАМИ</font>" [$WIN32]
+"SFUI_MainMenu_Training"			"<font color='#FFCE00'>СТРЕЛЬБИЩЕ CS:CO</font>"
+"SFUI_PlayMenu_FriendsMatchButton"	"<font color='#FFCE00'>ИГРАТЬ С ДРУЗЬЯМИ</font>" [$WIN32||$PS3]
+"SFUI_BYT_TITLE"					"<font color='#FFCE00'>ИГРАТЬ С ДРУЗЬЯМИ</font>"
+"SFUI_PlayMenu_CreateLobbyButton"	"<font color='#FFCE00'>ИГРАТЬ С ДРУЗЬЯМИ</font>"
 
-"SFUI_PauseMenu_OpenLoadout"                    "<font color='#FF0000'>INVENTORY</font>"
-"SFUI_PauseMenu_ResumeGameButton"				"<font color='#FFCE00'>RESUME GAME</font>"
+"SFUI_MainMenu_StatsButton"			"<font color='#FFCE00'>СТАТИСТИКА</font>"
+"SFUI_MainMenu_MedalButton"			"<font color='#FFCE00'>ДОСТИЖЕНИЯ</font>"
 
-//"SFUI_Store_Hint_default"			"<font color='#FF0000'>NOT AVAILABLE IN CLASSIC OFFENSIVE</font>"
+"SFUI_LeaderboardDevice_Gamepad"							"<font color='#FF0000'>Контроллер</font>"
+"SFUI_HelpMenu_ControlsButton"				"<font color='#FF0000'>УПРАВЛЕНИЕ КОНТРОЛЛЕРА</font>"	[$WIN32||$OSX]
+"SFUI_PLAYER_CONTROLS"			"<font color='#FF0000'>КОНТРОЛЛЕР</font>"
+"SFUI_HelpMenu_MouseKeyboardButton"	"<font color='#FFCE00'>КЛАВИАТУРА / МЫШЬ</font>"
+"SFUI_HelpMenu_SettingsButton"				"<font color='#FFCE00'>ПАРАМЕТРЫ ИГРЫ</font>"	[$WIN32||$OSX]
+"SFUI_HelpMenu_VideoSettings"				"<font color='#FFCE00'>НАСТРОЙКИ ВИДЕО</font>"
+"SFUI_HelpMenu_AudioSettings"				"<font color='#FFCE00'>НАСТРОЙКИ ЗВУКА</font>"
+"SFUI_HelpMenu_CreditsButton"				"<font color='#FF0000'>АВТОРЫ</font>"
+
+
+"SFUI_PlayMenu_BrowseServersButton"	"<font color='#FF0000'>ПОИСК СЕРВЕРОВ СООБЩЕСТВА</font>"
+"SFUI_PauseMenu_CallVoteButton"					"<font color='#FFCE00'>ПРОВЕСТИ ГОЛОСОВАНИЕ…</font>"
+"SFUI_PauseMenu_SwitchTeamsButton"				"<font color='#FFCE00'>ВЫБРАТЬ КОМАНДУ</font>"
+
+"SFUI_PauseMenu_OpenLoadout"                    "<font color='#FF0000'>ИНВЕНТАРЬ</font>"
+"SFUI_PauseMenu_ResumeGameButton"				"<font color='#FFCE00'>ВОЗОБНОВИТЬ ИГРУ</font>"
+
+//"SFUI_Store_Hint_default"			"<font color='#FF0000'>НЕДОСТУПНО В CLASSIC OFFENSIVE</font>"
 "SFUI_Store_Hint_default"			""
 
-"SFUI_Scoreboard_CompWins"							"CS:GO Competitive Matches Won"
+"SFUI_Scoreboard_CompWins"							"Выиграно соревновательных игр в CS:GO"
 
-"SFUI_Maps_Workshop_Title"       "<font color='#FFCE00'>CS:GO Workshop</font>"
-"SFUI_Maps_Offical_Title"       "<font color='#FFCE00'>Classic</font>"
+"SFUI_Maps_Workshop_Title"       "<font color='#FFCE00'>Мастерская CS:GO</font>"
+"SFUI_Maps_Offical_Title"       "<font color='#FFCE00'>Классические</font>"
 
 "SFUI_Elevated_Status_Confirmed"			""
 
 
-"SFUI_GameMode"							"Mode"
-"SFUI_GameModeClassic"					"Classic"
-"SFUI_GameModeCasual"					"Classic"
+"SFUI_GameMode"							"Режим"
+"SFUI_GameModeClassic"					"Классический"
+"SFUI_GameModeCasual"					"Классический"
 //"SFUI_GameModeCompetitiveSP"			"<font color='#FF0000'>XXXXXXXXXXXX</font>"
 //"SFUI_GameModeCompetitive"			"<font color='#FF0000'>XXXXXXXXXXXX</font>"
 "SFUI_GameModeCompetitiveSP"			""
 "SFUI_GameModeCompetitive"				""
-"SFUI_Deathmatch"						"Deathmatch"
-"SFUI_Cooperative"						"Guardian"
-"SFUI_CoopMission"						"Co-op Strike"
-"SFUI_GameModeCustom"					"Custom"
-"SFUI_GameModeAll"						"All Maps"
-"SFUI_GameModeAny"						"Any Mode"
-//"SFUI_GameModeGungameProgressive"		"Arms Race"
-//"SFUI_GameMode_gungameProgressive"		"Arms Race"
-//"SFUI_GameModeGGProgressive"			"Arms Race"
-"SFUI_GameModeGungameProgressive"		"Guardian"
-"SFUI_GameMode_gungameProgressive"		"Guardian"
-"SFUI_GameModeGGProgressive"			"Guardian"
-"SFUI_GameModeGGBomb"					"Demolition"
-"SFUI_GameModeGungameTrBomb"			"Demolition"
-"SFUI_GunGameTRMap"						"Demolition"
-"SFUI_GameModeDeathmatch"				"Deathmatch"
-"SFUI_GunGameProgressiveMap"			"Arms Race"
+"SFUI_Deathmatch"						"Бой насмерть"
+"SFUI_Cooperative"						"Страж"
+"SFUI_CoopMission"						"Совместный налет"
+"SFUI_GameModeCustom"					"Пользовательский"
+"SFUI_GameModeAll"						"Все карты"
+"SFUI_GameModeAny"						"Все режимы"
+//"SFUI_GameModeGungameProgressive"		"Гонка вооружений"
+//"SFUI_GameMode_gungameProgressive"		"Гонка вооружений"
+//"SFUI_GameModeGGProgressive"			"Гонка вооружений"
+"SFUI_GameModeGungameProgressive"		"Страж"
+"SFUI_GameMode_gungameProgressive"		"Страж"
+"SFUI_GameModeGGProgressive"			"Страж"
+"SFUI_GameModeGGBomb"					"Уничтожение"
+"SFUI_GameModeGungameTrBomb"			"Уничтожение"
+"SFUI_GunGameTRMap"						"Уничтожение"
+"SFUI_GameModeDeathmatch"				"Бой насмерть"
+"SFUI_GunGameProgressiveMap"			"Гонка вооружений"
 
-//"SFUI_GameModeClassic"					"<font color='#FFCE00'>Classic</font>"
-//"SFUI_GameModeCasual"					"<font color='#FFCE00'>Classic</font>"
+//"SFUI_GameModeClassic"					"<font color='#FFCE00'>Классический</font>"
+//"SFUI_GameModeCasual"					"<font color='#FFCE00'>Классический</font>"
 //"SFUI_GameModeCompetitiveSP"			"<font color='#FF0000'>XXXXXXXXXXXX</font>"
 //"SFUI_GameModeCompetitive"				"<font color='#FF0000'>XXXXXXXXXXXX</font>"
-//"SFUI_Deathmatch"						"<font color='#FFCE00'>Deathmatch</font>"
-//"SFUI_Cooperative"						"<font color='#FFCE00'>Guardian</font>"
-//"SFUI_CoopMission"						"<font color='#FFCE00'>Co-op Strike</font>"
+//"SFUI_Deathmatch"						"<font color='#FFCE00'>Бой насмерть</font>"
+//"SFUI_Cooperative"						"<font color='#FFCE00'>Страж</font>"
+//"SFUI_CoopMission"						"<font color='#FFCE00'>Совместный налет</font>"
 //"SFUI_GameModeCustom"					"<font color='#FFCE00'>Custom</font>"
-//"SFUI_GameModeAll"						"<font color='#FFCE00'>All Maps</font>"
-//"SFUI_GameModeAny"						"<font color='#FFCE00'>Any Mode</font>"
-//"SFUI_GameModeGungameProgressive"		"<font color='#FFCE00'>Arms Race</font>"
-//"SFUI_GameMode_gungameProgressive"		"<font color='#FFCE00'>Arms Race</font>"
-//"SFUI_GameModeGGProgressive"			"<font color='#FFCE00'>Arms Race</font>"
-//"SFUI_GameModeGGBomb"					"<font color='#FFCE00'>Demolition</font>"
-//"SFUI_GameModeGungameTrBomb"			"<font color='#FFCE00'>Demolition</font>"
-//"SFUI_GunGameTRMap"						"<font color='#FFCE00'>Demolition</font>"
-//"SFUI_GameModeDeathmatch"				"<font color='#FFCE00'>Deathmatch</font>"
-//"SFUI_GunGameProgressiveMap"			"<font color='#FFCE00'>Arms Race</font>"
+//"SFUI_GameModeAll"						"<font color='#FFCE00'>Все карты</font>"
+//"SFUI_GameModeAny"						"<font color='#FFCE00'>Все режимы</font>"
+//"SFUI_GameModeGungameProgressive"		"<font color='#FFCE00'>Гонка вооружений</font>"
+//"SFUI_GameMode_gungameProgressive"		"<font color='#FFCE00'>Гонка вооружений</font>"
+//"SFUI_GameModeGGProgressive"			"<font color='#FFCE00'>Гонка вооружений</font>"
+//"SFUI_GameModeGGBomb"					"<font color='#FFCE00'>Уничтожение</font>"
+//"SFUI_GameModeGungameTrBomb"			"<font color='#FFCE00'>Уничтожение</font>"
+//"SFUI_GunGameTRMap"						"<font color='#FFCE00'>Уничтожение</font>"
+//"SFUI_GameModeDeathmatch"				"<font color='#FFCE00'>Бой насмерть</font>"
+//"SFUI_GunGameProgressiveMap"			"<font color='#FFCE00'>Гонка вооружений</font>"
 
 
 
@@ -189,20 +189,20 @@
 
 
 
-"SFUI_GameModeCasualDesc"					"Freely drop in and drop out of games using the Classic ruleset.\nBuy new weapons each round with money earned and win the round by eliminating the other team or completing the objective."
-"SFUI_GameModeCasualDescList"               "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 15 rounds"
-"SFUI_GameModeCasualDescSP"					"Buy new weapons each round with money earned.\nWin the round by eliminating the other team or completing the objective."
-"SFUI_GameModeCasualDescSPList"             "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 15 rounds"
-"SFUI_GameModeCompetitiveDescSP"			""<font color='#FF0000'>Not Availiable in Classic Offensive</font>""
+"SFUI_GameModeCasualDesc"					"Свободно заходите в обычные игры и покидайте их используя обычный набор правил.\nnКаждый раунд покупайте новое оружие на заработанные деньги и побеждайте, уничтожив команду противника или выполнив задание."
+"SFUI_GameModeCasualDescList"               "· Огонь по своим ОТКЛ\n· Столкновения с союзниками ВКЛ\\n· Матч до 8 побед"
+"SFUI_GameModeCasualDescSP"					"Каждый раунд покупайте новое оружие на заработанные деньги.\nВыиграйте раунд, уничтожив команду противника или выполнив цель."
+"SFUI_GameModeCasualDescSPList"             "· Огонь по своим ОТКЛ\n· Столкновения с союзниками ВКЛ\\n· Матч до 8 побед"
+"SFUI_GameModeCompetitiveDescSP"			""<font color='#FF0000'>Недоступно в Classic Offensive</font>""
 "SFUI_GameModeCompetitiveDescSPList"        ""
-"SFUI_GameModeCompetitiveDesc"				""<font color='#FF0000'>Not Availiable in Classic Offensive</font>""
+"SFUI_GameModeCompetitiveDesc"				""<font color='#FF0000'>Недоступно Classic Offensive</font>""
 "SFUI_GameModeCompetitiveDescList"          ""
-//"SFUI_GameModeGGProgressiveDesc"			"Upgrade your weapon by eliminating enemies.\nWin the match by being the first player to get a kill with the Golden Knife."
-//"SFUI_GameModeGGProgressiveDescList"        "· Weapons are upgraded after eliminating enemies\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
-"SFUI_GameModeCooperativeDesc"				"Complete missions on official servers.\nCompleting mission objectives earns rewards and XP."
-"SFUI_GameModeCooperativeDescList"          "· Eliminate enemies and follow mission objectives\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
-//"SFUI_GameModeGungameProgressiveDesc"		"Upgrade your weapon by eliminating enemies.\nWin the match by being the first player to get a kill with the Golden Knife."
-//"SFUI_GameModeGungameProgressiveDescList"   "· Weapons are upgraded after eliminating enemies\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
+//"SFUI_GameModeGGProgressiveDesc"			"Улучшайте оружие, совершая убийства.\nЧтобы победить в матче, нужно первым совершить убийство золотым ножом."
+//"SFUI_GameModeGGProgressiveDescList"        "· Оружие улучшается при убийстве противников.\n· Мгновенное возрождение.\n· Огонь по своим ОТКЛ.\n· Столкновения с союзниками ОТКЛ"
+"SFUI_GameModeCooperativeDesc"				"Выполняйте миссии на официальных серверах.\nЗа выполнение миссий выдаются награды и опыт."
+"SFUI_GameModeCooperativeDescList"          "· Убивайте врагов и выполняйте миссию\n· мгновенное возрождение\n· Огонь по своим ОТКЛ.\n· Столкновения с союзниками ОТКЛ"
+//"SFUI_GameModeGungameProgressiveDesc"		"Улучшайте оружие, совершая убийства.\nЧтобы победить в матче, нужно первым совершить убийство золотым ножом."
+//"SFUI_GameModeGungameProgressiveDescList"   "· Оружие улучшается при убийстве противников.\n· Мгновенное возрождение.\n· Огонь по своим ОТКЛ.\n· Столкновения с союзниками ОТКЛ"
 "SFUI_GameModeGGBombDesc"					"Upgrade your weapon by getting kills.\nWin the round by eliminating the other team or completing the objective."
 "SFUI_GameModeGGBombDescList"               "· Weapons awarded on round start\n· Friendly fire is OFF\n· Team collision is off\n· Best out of 20 rounds"
 "SFUI_GameModeGungameTrBombDesc"			"Upgrade your weapon by getting kills.\nWin the round by eliminating the other team or completing the objective."
@@ -220,44 +220,44 @@
 
 
 
-"Button_Spray"								"<font color='#FF0000'>Graffiti</font>"
+"Button_Spray"								"<font color='#FF0000'>Граффити</font>"
 
-"SFUI_MainMenu_News_Title"					"CS:GO News"
-"SFUI_Store_Market_Link"                    "Open CS:GO Market"
+"SFUI_MainMenu_News_Title"					"Новости CS:GO"
+"SFUI_Store_Market_Link"                    "Открыть торговую пощадку CS:GO"
 
 
-"CSGO_No_Sprays"							"<font color='#FF0000'>Graffiti Aren't Supported</font>"
-"CSGO_No_Spray_Equipped"					"<font color='#FF0000'>Graffiti Aren't Supported</font>"
-"Attrib_SpraysHint"							"<font color='#FF0000'>Graffiti Aren't Supported</font>"
+"CSGO_No_Sprays"							"<font color='#FF0000'>Граффити не поддерживаются</font>"
+"CSGO_No_Spray_Equipped"					"<font color='#FF0000'>Граффити не поддерживаются</font>"
+"Attrib_SpraysHint"							"<font color='#FF0000'>Граффити не поддерживаются</font>"
 	
 
 //====================================
 // MAPS
 //====================================
 
-		"SFUI_Map_Tooltip_Desc_Classic_Op_over" "<font color='#FFCE00'>This map is an official</font> <font color='#FFFFFF'>Classic Offensive</font> <font color='#FFCE00'>map</font>"
-		"SFUI_Map_mg_de_dust2_winter_desc"		"<font color='#FF0000'>This map is an official</font> <font color='#00FF00'>Classic Offensive</font> <font color='#FF0000'>event map</font>"
+		"SFUI_Map_Tooltip_Desc_Classic_Op_over" "<font color='#FFCE00'>Это официальная карта</font> <font color='#FFFFFF'>Classic Offensive</font>"
+		"SFUI_Map_mg_de_dust2_winter_desc"		"<font color='#FF0000'>Это официальная карта</font> <font color='#00FF00'>Classic Offensive</font> <font color='#FF0000'>для событий</font>"
 
 
-		"SFUI_Map_de_dust2_winter_csco"		"Dust II - Winter"
+		"SFUI_Map_de_dust2_winter_csco"		"Dust II - Зима"
 		"SFUI_Map_fy_snow_csco"				"Fight/Yard Snow"
 		"SFUI_Map_fy_pool_day_csco"			"Fight/Yard Pool Day"
 		"SFUI_Map_aim_map_csco"				"Combat/Skill Desert (aim_map)"
-		"SFUI_Map_guardianloader_csco"		"Loading a random map..."
+		"SFUI_Map_guardianloader_csco"		"Загрузка случайной карты..."
 		
 		"SFUI_Map_de_dust2_csco"			"Dust II"
 		"SFUI_Map_de_inferno_csco"			"Inferno"
 		"SFUI_Map_de_mirage_csco"			"Mirage"
 		"SFUI_Map_de_piranesi_csco"			"Piranesi"
 		"SFUI_Map_cs_italy_csco"			"Italy"
-		"SFUI_Map_tr_shootingrange_csco"	"Shooting Range"
+		"SFUI_Map_tr_shootingrange_csco"	"Стрельбище"
 		"SFUI_Rules_Training_Loading"		""
 		
 //-------------------------------------------------------------------
 
 		"SFUI_Map_fy_pool_day"					"Fight/Yard Pool Day"
-		"SFUI_Map_de_mirage_csco_desc"			"<font color='#FFCE00'>This map is an official</font> <font color='#FFFFFF'>Classic Offensive</font> <font color='#FFCE00'>map</font>, <font color='#FFCE00'>Original CE version by <font color='#FFFFFF'>MadMax, BubkeZ <font color='#FFCE00'>and</font> <font color='#FFFFFF'>cashed</font>"
-		"SFUI_Map_fy_pool_day_desc"				"<font color='#FFCE00'>This map is a placeholder from the WORKSHOP remade by</font> <font color='#FFFFFF'>leplubodeslapin</font>"
+		"SFUI_Map_de_mirage_csco_desc"			"<font color='#FFCE00'>Это официальная карта</font> <font color='#FFFFFF'>Classic Offensive</font>, <font color='#FFCE00'>Оригинальная версия от <font color='#FFFFFF'>MadMax, BubkeZ <font color='#FFCE00'>и</font> <font color='#FFFFFF'>cashed</font>"
+		"SFUI_Map_fy_pool_day_desc"				"<font color='#FFCE00'>Эта карта временный заменитель из WORKSHOP от</font> <font color='#FFFFFF'>leplubodeslapin</font>"
 
 
 //====================================
@@ -265,52 +265,52 @@
 //====================================
 
 
-		"SFUI_StandardRadio"			"<font color='#FFCE00'>Standard Radio Message</font>"
-		"SFUI_GroupRadio"				"<font color='#FFCE00'>Group Radio Message</font>"
-		"SFUI_ReportRadio"				"<font color='#FFCE00'>Report Radio Message</font>"
-		"SFUI_CommandRadio"				"<font color='#FFCE00'>Command Radio Message</font>"
+		"SFUI_StandardRadio"			"<font color='#FFCE00'>Стандартные радио сообщения</font>"
+		"SFUI_GroupRadio"				"<font color='#FFCE00'>Групповые радио сообщения</font>"
+		"SFUI_ReportRadio"				"<font color='#FFCE00'>Рапортные радио сообщения</font>"
+		"SFUI_CommandRadio"				"<font color='#FFCE00'>Командные радио сообщения</font>"
 
 
-		"SFUI_Radio_Cover_Me"			"<font color='#FFCE00'>Cover Me</font>"
-		"SFUI_Radio_Take_Point"			"<font color='#FFCE00'>You Take the Point</font>"
-		"SFUI_Radio_Hold_Pos"			"<font color='#FFCE00'>Hold This Position</font>"
-		"SFUI_Radio_Follow"				"<font color='#FFCE00'>Follow Me</font>"
-		"SFUI_Radio_Need_Assist"		"<font color='#FFCE00'>Taking Fire, Need Assistance</font>"
-		"SFUI_Radio_Get_In"				"<font color='#FFCE00'>Get in Position</font>"
+		"SFUI_Radio_Cover_Me"			"<font color='#FFCE00'>Прикройте меня</font>"
+		"SFUI_Radio_Take_Point"			"<font color='#FFCE00'>Иди первым</font>"
+		"SFUI_Radio_Hold_Pos"			"<font color='#FFCE00'>Удерживать эту позицию</font>"
+		"SFUI_Radio_Follow"				"<font color='#FFCE00'>За мнойe</font>"
+		"SFUI_Radio_Need_Assist"		"<font color='#FFCE00'>Меня атакауют, нужна помощь</font>"
+		"SFUI_Radio_Get_In"				"<font color='#FFCE00'>Займите позицию</font>"
 
-		"SFUI_Radio_Go"					"<font color='#FFCE00'>GO</font>"
-		"SFUI_Radio_Fall_Back"			"<font color='#FFCE00'>Fall Back</font>"
-		"SFUI_Radio_Stick_Together"		"<font color='#FFCE00'>Stick Together Team</font>"
-		"SFUI_Radio_Regroup"			"<font color='#FFCE00'>Regroup Team</font>"
-		"SFUI_Radio_Storm_Front"		"<font color='#FFCE00'>Storm the Front</font>"
-		"SFUI_Radio_Report_In"			"<font color='#FFCE00'>Report In</font>"
+		"SFUI_Radio_Go"					"<font color='#FFCE00'>ВПЕРЕД</font>"
+		"SFUI_Radio_Fall_Back"			"<font color='#FFCE00'>Отступаем</font>"
+		"SFUI_Radio_Stick_Together"		"<font color='#FFCE00'>Держаться вместе</font>"
+		"SFUI_Radio_Regroup"			"<font color='#FFCE00'>Перегруппироваться</font>"
+		"SFUI_Radio_Storm_Front"		"<font color='#FFCE00'>Штурмуем с фронта</font>"
+		"SFUI_Radio_Report_In"			"<font color='#FFCE00'>Доложите</font>"
 
-		"SFUI_Radio_Roger"				"<font color='#FFCE00'>Affirmative/Roger</font>"
-		"SFUI_Radio_Spotted"			"<font color='#FFCE00'>Enemy Spotted</font>"
-		"SFUI_Radio_Need_Backup"		"<font color='#FFCE00'>Need Backup</font>"
-		"SFUI_Radio_Sector_Clear"		"<font color='#FFCE00'>Sector Clear</font>"
-		"SFUI_Radio_In_Position"		"<font color='#FFCE00'>I'm in Position</font>"
-		"SFUI_Radio_Reporting_Int"		"<font color='#FFCE00'>Reporting In</font>"
-		"SFUI_Radio_Shes_Gonna_Blow"	"<font color='#FFCE00'>She's gonna Blow!</font>"
-		"SFUI_Radio_Negative"			"<font color='#FFCE00'>Negative</font>"
-		"SFUI_Radio_Enemy_Down"			"<font color='#FFCE00'>Enemy Down</font>"
+		"SFUI_Radio_Roger"				"<font color='#FFCE00'>Подтверждаю/Вас понял</font>"
+		"SFUI_Radio_Spotted"			"<font color='#FFCE00'>Замечен противник</font>"
+		"SFUI_Radio_Need_Backup"		"<font color='#FFCE00'>Нужно подкрепление</font>"
+		"SFUI_Radio_Sector_Clear"		"<font color='#FFCE00'>Сектор чист</font>"
+		"SFUI_Radio_In_Position"		"<font color='#FFCE00'>Я на позиции</font>"
+		"SFUI_Radio_Reporting_Int"		"<font color='#FFCE00'>Докладываю</font>"
+		"SFUI_Radio_Shes_Gonna_Blow"	"<font color='#FFCE00'>Сейчас рванет!</font>"
+		"SFUI_Radio_Negative"			"<font color='#FFCE00'>Никак нет</font>"
+		"SFUI_Radio_Enemy_Down"			"<font color='#FFCE00'>Противник убит</font>"
 		
 		
-		"SFUI_Radio_Exit"				"0. <font color='#FFCE00'>Exit</font>"
+		"SFUI_Radio_Exit"				"0. <font color='#FFCE00'>Выход</font>"
 		
 		
 		
 		
 
-"SFUI_TitlesTXT_Fire_in_the_hole"			"Fire in the hole!"
-"SFUI_TitlesTXT_Molotov_in_the_hole"		"Fire in the hole!"
-"SFUI_TitlesTXT_Incendiary_in_the_hole"		"Fire in the hole!"
-"SFUI_TitlesTXT_Flashbang_in_the_hole"		"Fire in the hole!"
-"SFUI_TitlesTXT_Smoke_in_the_hole"			"Fire in the hole!"
-"SFUI_TitlesTXT_Decoy_in_the_hole"			"Fire in the hole!"
+"SFUI_TitlesTXT_Fire_in_the_hole"			"Ложись!"
+"SFUI_TitlesTXT_Molotov_in_the_hole"		"Ложись!"
+"SFUI_TitlesTXT_Incendiary_in_the_hole"		"Ложись!"
+"SFUI_TitlesTXT_Flashbang_in_the_hole"		"Ложись!"
+"SFUI_TitlesTXT_Smoke_in_the_hole"			"Ложись!"
+"SFUI_TitlesTXT_Decoy_in_the_hole"			"Ложись!"
 
-"Cstrike_TitlesTXT_Thanks"					"Get in Position!"
-"Cstrike_TitlesTXT_Cheer"					"Storm the Front!"
+"Cstrike_TitlesTXT_Thanks"					"Займите позицию!"
+"Cstrike_TitlesTXT_Cheer"					"Штурмуем с фронта!"
 		
 
 //====================================
@@ -318,60 +318,60 @@
 //====================================
 		
 		
-		"SFUI_Hint_Accurate_Range"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Flashbang_Careful"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_BuyArmor"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Defusal_Speed"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Defuse_Wins"         "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_AWP_Hint1"           "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_XM1014_Hint1"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_M4A4_Hint1"          "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_AK47_Hint1"          "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Deagle_Hint1"        "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Backstab"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Flashbang_Turn"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Fire_Makes_Slow"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Smoke_At_Door"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Grenades_On_Death"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Inspect_Weapon"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Accurate_Range"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Flashbang_Careful"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_BuyArmor"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Defusal_Speed"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Defuse_Wins"         "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_AWP_Hint1"           "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_XM1014_Hint1"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_M4A4_Hint1"          "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_AK47_Hint1"          "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Deagle_Hint1"        "<font color='#FFFFFF'>Вы играете вg</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Backstab"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Flashbang_Turn"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Fire_Makes_Slow"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Smoke_At_Door"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Grenades_On_Death"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Inspect_Weapon"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 
-		"SFUI_Hint_VariableKillAwards"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_ManageMoney1"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_VariableKillAwards"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_ManageMoney1"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 
-		"SFUI_Hint_Headhot1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Jump_Accuracy"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Stand_While_Sniping" "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_KillingHostage"      "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Reticule_Spread" 	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Crouch_Accuracy" 	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Walk_Accuracy" 		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Burst_Fire" 			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Switch_To_Pistol"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_UpgradePostRound"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Headhot1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Jump_Accuracy"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Stand_While_Sniping" "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_KillingHostage"      "<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Reticule_Spread" 	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Crouch_Accuracy" 	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Walk_Accuracy" 		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Burst_Fire" 			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Switch_To_Pistol"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_UpgradePostRound"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 
-		"SFUI_Hint_Stick_With_Team"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Ammo_Mangement"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Vulnerable_Reloading""<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Shoot_Thru_Walls"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_LearnRadar"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_WeaponSlowdown"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_BeQuicker"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_AvoidWater"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_PickupGuns"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_ControlBotDontKeep"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Stick_With_Team"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Ammo_Mangement"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Vulnerable_Reloading""<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Shoot_Thru_Walls"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_LearnRadar"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_WeaponSlowdown"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_BeQuicker"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_AvoidWater"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_PickupGuns"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_ControlBotDontKeep"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 
-		"SFUI_Hint_ST6_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_SAS_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_GIGN_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_GSG9_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_FBI_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_FBI_Info2"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_SWAT_Info1"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_SWAT_Info2"			"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_ST6_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_SAS_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_GIGN_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_GSG9_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_FBI_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_FBI_Info2"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_SWAT_Info1"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_SWAT_Info2"			"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 
-		"SFUI_Hint_Quote_Claudius1"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Quote_Antoine1"		"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
-		"SFUI_Hint_Quote_Churchill1"	"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Quote_Claudius1"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Quote_Antoine1"		"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
+		"SFUI_Hint_Quote_Churchill1"	"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive  </font>"
 		
 		
 		
@@ -379,8 +379,8 @@
 // MENU OUTDATED MESSAGE
 //====================================
 	
-		"SFUI_MainMenu_Outofdate_Title"				"<font color='#FFFFFF'>You're running</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive </font><font color='#33FF33'>[BETA 1.1d]</font>"
-		"SFUI_MainMenu_Outofdate_Body"				"<font color='#FF0000'> Do not try to go on ranked or on official servers with the mod.</font><font color='#FFFFFF'>     - </font><font color='#66A8FF'>Zo</font><font color='#FF6666'>oL</font>"
+		"SFUI_MainMenu_Outofdate_Title"				"<font color='#FFFFFF'>Вы играете в</font> - </font><font color='#FFCE00'>Counter-Strike: Classic Offensive </font><font color='#33FF33'>[БЕТА 1.1d]</font>"
+		"SFUI_MainMenu_Outofdate_Body"				"<font color='#FF0000'> Не пытайтесь играть на ранговых или официальных серверах с этим модом.</font><font color='#FFFFFF'>     - </font><font color='#66A8FF'>Zo</font><font color='#FF6666'>oL</font>"
 
 //====================================
 // STATTRAK AND OTHER
@@ -405,7 +405,7 @@
 		"Attrib_KillEater"						""
 		
 		
-		"CSGO_FakePlayer_Phoenix"				"<font color='#00FF00'>HECU Soldier</font>"
+		"CSGO_FakePlayer_Phoenix"				"<font color='#00FF00'>Солдат HECU</font>"
 		
 		
 		"CSGO_KillEater_Hud"		""
